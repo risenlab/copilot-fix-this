@@ -1,0 +1,29 @@
+intents,count
+fix_vulnerability,2871
+find_vulnerabilities,779
+prevent_vulnerabilities,400
+unrelated,360
+other_security,345
+fix_vulnerability; prevent_vulnerabilities,265
+explain_vulnerability,179
+verify_vulnerability,109
+fix_vulnerability; find_vulnerabilities,97
+fix_vulnerability; verify_vulnerability,79
+fix_vulnerability; explain_vulnerability,76
+find_vulnerabilities; prevent_vulnerabilities,76
+find_vulnerabilities; verify_vulnerability,39
+find_vulnerabilities; explain_vulnerability,37
+explain_vulnerability; verify_vulnerability,30
+explain_vulnerability; prevent_vulnerabilities,21
+prevent_vulnerabilities; verify_vulnerability,15
+fix_vulnerability; find_vulnerabilities; verify_vulnerability,10
+fix_vulnerability; find_vulnerabilities; explain_vulnerability,7
+fix_vulnerability; find_vulnerabilities; prevent_vulnerabilities,6
+fix_vulnerability; prevent_vulnerabilities; verify_vulnerability,6
+find_vulnerabilities; explain_vulnerability; verify_vulnerability,5
+fix_vulnerability; explain_vulnerability; verify_vulnerability,4
+find_vulnerabilities; explain_vulnerability; prevent_vulnerabilities,3
+fix_vulnerability; find_vulnerabilities; explain_vulnerability; verify_vulnerability,2
+fix_vulnerability; explain_vulnerability; prevent_vulnerabilities,2
+find_vulnerabilities; prevent_vulnerabilities; verify_vulnerability,1
+explain_vulnerability; find_vulnerabilities,1
